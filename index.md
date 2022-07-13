@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Judges in Israel - Mini Project in Digital Humanities
 
-You can use the [editor on GitHub](https://github.com/NadavAmit/Knowyourjudge.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About the Project
+In this project we decided to address a topic that interested us, and have been in public's interest in the recent years.
+What a 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How we did it?
+1.We found a reliable source that contains valid information about serving judges in Israel.
+2.Using a scrapper we created, we extracted information about the judges from the source.
+3.We wrote a Pyhton script that extracts and manipultates the raw data and stores in a JSON in a structure defined by us.
+4.We present here the data about judges in Israel that we have collected.
 
-### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
