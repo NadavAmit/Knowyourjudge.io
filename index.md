@@ -12,7 +12,7 @@ What a
 
 
 #### Statistics Chart
-![Book logo](/Knowyourjudge.io/resources./Role Type.jpeg)
+![Role Type](/Knowyourjudge.io/resources./Role Type.jpeg)
 
 
 
@@ -49,11 +49,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NadavAmit/Knowyourjudge.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Source Code
+[Link]([url](https://www.meta-chart.com/pie))
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-###About Us
+### About Us
 We are Amit Nadav and Lior Haritonov, Computer Science student at Ben Gurion University.
 As part of Digital Humanities course we worked on this project.
 
