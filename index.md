@@ -13,27 +13,27 @@ In our project we decided to focus on the judicial system - judges.
 
 
 ## Statistics Results
-![Image description](/resources./Gender_r.png)
+
 ### **Gender**
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
+![Gender](/resources./Gender.png)
 
 ### Birth Year
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Birth%20Year.jpeg" width="600" height="399"/>
+![Birth Year](/resources./Birth%20Year.png)
 
 ### Army Service
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Army%20service.jpeg" width="600" height="399"/>
+![Army service](/resources./Army%20service.png)
 
 ### Role Type
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Role%20Type.jpeg" width="600" height="399"/>
+![Role Type](/resources./Role%20Type.png)
 
 ### Graduation Year - Bachelor's Degree
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Graduation%20Year-%20Bachelor's%20Degree.jpeg" width="600" height="399"/>
+!Gradutation Year](/resources./Graduation%20Year-%20Bachelor's%20Degree.png)
 
 ### Internship Year
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Internship%20Year%20-%20Decades.jpeg" width="600" height="399"/>
+![Internship](/resources./Internship%20Year%20-%20Decades.png)
 
 ### Year Of Certification
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Year%20Of%20Certification%20-%20Decades.jpeg" width="600" height="399"/>
+![Certification](/resources./Year%20Of%20Certification%20-%20Decades.png)
 
 
 
