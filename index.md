@@ -13,7 +13,7 @@ In our project we decided to focus on the judicial system - judges.
 
 
 ## Statistics Results
-
+![Image description](/resources./Gender_r.png)
 ### **Gender**
 <img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
 
