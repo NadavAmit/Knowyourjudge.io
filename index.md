@@ -27,7 +27,7 @@ In our project we decided to focus on the judicial system - judges.
 ![Role Type](/resources./Role.png)
 
 ### Graduation Year - Bachelor's Degree
-!Gradutation Year](/resources./Graduation.png)
+[!Gradutation Year](/resources./Graduation.png)
 
 ### Internship Year
 ![Internship](/resources./Internship.png)
