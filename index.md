@@ -1,26 +1,32 @@
-## Judges in Israel - Mini Project in Digital Humanities
+# Judges in Israel - Mini Project in Digital Humanities
 
-### About the Project
+## About the Project
 In this project we decided to address a topic that interested us, and have been in public's interest in the recent years.
 What a 
 
-### How we did it?
+## How we did it?
 1.We found a reliable source that contains valid information about serving judges in Israel.
 2.Using a scrapper we created, we extracted information about the judges from the source.
 3.We wrote a Pyhton script that extracts and manipultates the raw data and stores in a JSON in a structure defined by us.
 4.We present here the data about judges in Israel that we have collected.
 
 
-#### Statistics Chart
-![Role Type](/Knowyourjudge.io/resources./Role Type.jpeg)
+## Statistics Chart
 
+### Gender
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
 
+### Birth Year
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Birth%20Year.jpeg" width="600" height="399"/>
 
-Knowyourjudge.io/resources./
+### Army Service
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Army%20service.jpeg" width="600" height="399"/>
 
+### Gender
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
 
-
-
+### Gender
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
