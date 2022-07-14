@@ -47,4 +47,4 @@ In our project we decided to focus on the judicial system - judges.
 ### About Us
 We are Amit Nadav and Lior Haritonov, Computer Science student at Ben Gurion University.
 As part of Digital Humanities course we worked on this project.
-V1.0
+V1.1
