@@ -5,15 +5,15 @@ In this project we decided to address a topic that interested us, and have been 
 What a 
 
 ## How we did it?
-1.We found a reliable source that contains valid information about serving judges in Israel.
-2.Using a scrapper we created, we extracted information about the judges from the source.
-3.We wrote a Pyhton script that extracts and manipultates the raw data and stores in a JSON in a structure defined by us.
-4.We present here the data about judges in Israel that we have collected.
+1. We found a reliable source that contains valid information about serving judges in Israel.
+2. Using a scrapper we created, we extracted information about the judges from the source.
+3. We wrote a Pyhton script that extracts and manipultates the raw data and stores in a JSON in a structure defined by us.
+4. We present here the data about judges in Israel that we have collected.
 
 
-## Statistics Chart
+## Statistics Results
 
-### Gender
+### **Gender**
 <img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
 
 ### Birth Year
@@ -22,38 +22,19 @@ What a
 ### Army Service
 <img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Army%20service.jpeg" width="600" height="399"/>
 
-### Gender
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
+### Role Type
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Role%20Type.jpeg" width="600" height="399"/>
 
-### Gender
-<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Gender.jpeg" width="600" height="399"/>
+### Graduation Year - Bachelor's Degree
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Graduation%20Year-%20Bachelor's%20Degree.jpeg" width="600" height="399"/>
+
+### Internship Year
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Internship%20Year%20-%20Decades.jpeg" width="600" height="399"/>
+
+### Year Of Certification
+<img src= "https://github.com/NadavAmit/Knowyourjudge.io/blob/gh-pages/resources./Year%20Of%20Certification%20-%20Decades.jpeg" width="600" height="399"/>
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NadavAmit/Knowyourjudge.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Source Code
 [Link](https://www.meta-chart.com/pie)
