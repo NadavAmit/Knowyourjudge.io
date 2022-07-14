@@ -18,22 +18,22 @@ In our project we decided to focus on the judicial system - judges.
 ![Gender](/resources./Gender.png)
 
 ### Birth Year
-![Birth Year](/resources./Birth%20Year.png)
+![Birth Year](/resources./Birth.png)
 
 ### Army Service
-![Army service](/resources./Army%20service.png)
+![Army service](/resources./Army.png)
 
 ### Role Type
-![Role Type](/resources./Role%20Type.png)
+![Role Type](/resources./Role.png)
 
 ### Graduation Year - Bachelor's Degree
-!Gradutation Year](/resources./Graduation%20Year-%20Bachelor's%20Degree.png)
+!Gradutation Year](/resources./Graduation.png)
 
 ### Internship Year
-![Internship](/resources./Internship%20Year%20-%20Decades.png)
+![Internship](/resources./Internship.png)
 
 ### Year Of Certification
-![Certification](/resources./Year%20Of%20Certification.png)
+![Certification](/resources./Certification.png)
 
 
 
@@ -47,3 +47,4 @@ In our project we decided to focus on the judicial system - judges.
 ### About Us
 We are Amit Nadav and Lior Haritonov, Computer Science student at Ben Gurion University.
 As part of Digital Humanities course we worked on this project.
+V1.0
