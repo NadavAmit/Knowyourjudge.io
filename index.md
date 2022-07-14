@@ -11,7 +11,12 @@ What a
 4.We present here the data about judges in Israel that we have collected.
 
 
-####Statistics Chart
+#### Statistics Chart
+![Book logo](/Knowyourjudge.io/resources./Role Type.jpeg)
+
+
+
+Knowyourjudge.io/resources./
 
 
 
