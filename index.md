@@ -50,7 +50,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NadavAmit/Knowyourjudge.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Source Code
-[Link]([url](https://www.meta-chart.com/pie))
+[Link](https://www.meta-chart.com/pie)
 
 ### About Us
 We are Amit Nadav and Lior Haritonov, Computer Science student at Ben Gurion University.
