@@ -2,7 +2,8 @@
 
 ## About the Project
 In this project we decided to address a topic that interested us, and have been in public's interest in the recent years.
-What a 
+What are the characteristics of people in key positions in Israel. 
+In our project we decided to focus on the judicial system - judges.
 
 ## How we did it?
 1. We found a reliable source that contains valid information about serving judges in Israel.
@@ -36,10 +37,13 @@ What a
 
 
 
-### Source Code
-[Link](https://www.meta-chart.com/pie)
-
+### Important links
+1. Here is the source code of our project and the JSON file of the extracted data.
+   [Link to Source Code](https://github.com/lior84/Digital-Humanities-project/tree/master)
+2. Link to our project GitHub Repository
+   [Link GitHub repo](https://github.com/lior84/Digital-Humanities-project)
+   
+   
 ### About Us
 We are Amit Nadav and Lior Haritonov, Computer Science student at Ben Gurion University.
 As part of Digital Humanities course we worked on this project.
-
