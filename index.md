@@ -33,7 +33,7 @@ In our project we decided to focus on the judicial system - judges.
 ![Internship](/resources./Internship%20Year%20-%20Decades.png)
 
 ### Year Of Certification
-![Certification](/resources./Year%20Of%20Certification%20-%20Decades.png)
+![Certification](/resources./Year%20Of%20Certification.png)
 
 
 
